@@ -4,24 +4,24 @@ A webmap based in python with visual analytics of all the volcanoes around the w
 around the world 
 
 ## Getting Started
-```
+
 * Clone the repo.
 * Install the dependencies 
 	- Pandas
 	- Folium
 * run map.py
 * Then start map.html
-```
+
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
 
-```
+
 * Python 3
 * Pandas
 * Folium
-```
+
 
 ## Built With
 
